@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<img src="https://img.shields.io/badge/hyuk3880@naver.com-EA4335?style=flat-square&logo=gmail&logoColor=white">  <img src="https://img.shields.io/badge/Notion-000000"?style=flat-square&logo=notion&logoColor=white"> 
+<img src="https://img.shields.io/badge/hyuk3880@naver.com-EA4335?style=flat-square&logo=gmail&logoColor=white"> <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white">
 
 Hi there! I'm Computer Vision DeepLearning Developer using Python and C++
 Sometimes i depvelope UI

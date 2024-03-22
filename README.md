@@ -15,4 +15,4 @@ I aspire to make a meaningful impact by contributing to the advancement of AI te
 
 ### Skills
 
-![Python](https://simpleicons.org/icons/python.svg)
+<img src="https://simpleicons.org/icons/python.svg" width="50" height="50">

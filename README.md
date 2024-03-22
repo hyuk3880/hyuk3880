@@ -13,7 +13,7 @@ I aspire to make a meaningful impact by contributing to the advancement of AI te
 
 
 
-###Skills
+### Skills
 
 
 <img src="https://img.shields.io/badge/#3776AB?style=flat-square&logo=Python&logoColor=white"/>
